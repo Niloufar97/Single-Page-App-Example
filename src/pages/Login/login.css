@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.login-container{
+    width: 350px;
+    height: 250px;
+    margin: 150px auto;
+    border: 2px solid darkgray;
+    border-radius: 8px;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+.login-form input{
+    margin: 10px 0;
+    width: 200px;
+    height: 35px;
+    padding: 10px;
+}
+.login-form button{
+    width: 200px;
+    height: 40px;
+    background-color: #86C3B2;
+    border-radius: 8px;
+    margin: 10px;
+}
+.login-form button:hover{
+    background-color: #85dca6;
+}

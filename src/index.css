@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'title';
+    src: url('./assets/fonts/title.ttf');
+}
+@font-face {
+    font-family: 'Assistant';
+    src: url('./assets/fonts/Assistant.ttf');
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Assistant' , sans-serif;
+}
